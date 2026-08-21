@@ -76,12 +76,7 @@ whoami:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shimleabyte&show_icons=true&theme=dark&hide_border=true&bg_color=0B1F16&title_color=6C63FF&icon_color=87CEEB&text_color=E8F5E9&ring_color=8B5E3C" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shimleabyte&theme=dark&hide_border=true&background=0B1F16&ring=6C63FF&fire=87CEEB&currStreakLabel=6C63FF&sideLabels=E8F5E9&dates=8B5E3C" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimleabyte&layout=compact&theme=dark&hide_border=true&bg_color=0B1F16&title_color=6C63FF&text_color=E8F5E9&langs_count=8" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shimleabyte&theme=react-dark&hide_border=true&bg_color=0B1F16&color=87CEEB&line=6C63FF&point=E8F5E9&area=true&area_color=8B5E3C" width="98%"/>
 
 </div>
 
