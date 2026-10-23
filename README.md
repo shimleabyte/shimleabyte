@@ -13,9 +13,9 @@
       <p>As a self-taught developer, I build that understanding through independent projects, deliberate practice, and revisiting decisions when an implementation doesn't hold up. AI tools are useful when they help me explore or debug, but I still need to understand and validate the result.</p>
 <h3>SELECTED WORK</h3>
       <p>
-        <strong><a href="https://github.com/shimleabyte/mutabaah-cli">mutabaah-cli</a></strong><br />
-        A Go command-line tracker for daily activities, with local JSON persistence. Built as a practical way to work with Go structs and methods, command routing, file I/O, and data serialization.<br />
-        <em>Go · Standard library · JSON</em>
+        <strong><a href="https://github.com/shimleabyte/mutabaah-cli">Mutabaah CLI</a></strong><br />
+        A Go CLI for tracking activities and keeping short notes, organized into separate <code>acts</code> and <code>notes</code> command domains. Activities support configurable session targets, progress bars, and deadlines; notes hold 1–5 lines and appear in a compact table with wrapped text.<br />
+        <em>Go · Standard library · JSON persistence · CLI design · Testing</em>
       </p>
       <p><a href="https://github.com/shimleabyte/mutabaah-cli">View repository ↗</a></p>
 
