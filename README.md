@@ -20,7 +20,7 @@
       </p>
       <p><a href="https://github.com/shimleabyte/mutabaah-cli">View repository ↗</a></p>
 
-      <p>
+  <p>
         <strong><a href="https://github.com/shimleabyte/optical-anchor-button">Optical Anchor Button</a></strong><br />
         An eye-first interactive button component built around a custom SVG iris, page-wide pointer tracking, and an awake-to-tired-to-sleep lifecycle. The project includes a React/TypeScript component baseline and a framework-free Vanilla JavaScript rebuild, with native button semantics, reduced-motion handling, and automated browser regression checks.<br />
         <em>React · TypeScript · Vanilla JavaScript · CSS · SVG · Vite · Vitest · Playwright · Accessibility</em>
