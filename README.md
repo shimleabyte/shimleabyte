@@ -20,6 +20,13 @@
       </p>
       <p><a href="https://github.com/shimleabyte/mutabaah-cli">View repository ↗</a></p>
 
+      <p>
+        <strong><a href="https://github.com/shimleabyte/optical-anchor-button">Optical Anchor Button</a></strong><br />
+        An eye-first interactive button component built around a custom SVG iris, page-wide pointer tracking, and an awake-to-tired-to-sleep lifecycle. The project includes a React/TypeScript component baseline and a framework-free Vanilla JavaScript rebuild, with native button semantics, reduced-motion handling, and automated browser regression checks.<br />
+        <em>React · TypeScript · Vanilla JavaScript · CSS · SVG · Vite · Vitest · Playwright · Accessibility</em>
+      </p>
+      <p><a href="https://github.com/shimleabyte/optical-anchor-button">View repository ↗</a></p>
+
   <h3>BUILD HISTORY</h3>
       <p><strong>Independent development · 2024–present</strong><br />Personal projects, web-building work, self-directed study, and personal productivity-tool experiments. My experience is project-based, and the focus is on learning to build software I can explain, debug, and maintain.</p>
     </td>
