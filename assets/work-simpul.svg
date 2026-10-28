@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="270" viewBox="0 0 640 270" role="img" aria-labelledby="title desc">
+<title id="title">Simpul order workflow illustration</title><desc id="desc">An order workflow links order creation, stock reservation, payment events, and an audit record.</desc>
+<rect width="640" height="270" fill="#e9e2d5"/>
+<text x="25" y="34" font-family="monospace" font-size="10" letter-spacing="1.7" fill="#586657">SIMPUL / DOMAIN FLOW STUDY</text>
+<text x="25" y="65" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="-.5" fill="#17231b">One order. Explicit transitions.</text>
+<path d="M79 135H560" stroke="#9ba394" stroke-width="2"/>
+<g>
+  <rect x="25" y="104" width="128" height="72" fill="#f4eee3" stroke="#576956" stroke-width="1.5"/><rect x="25" y="104" width="128" height="8" fill="#d96a43"/>
+  <text x="37" y="132" font-family="monospace" font-size="9" letter-spacing=".7" fill="#586657">01 / INPUT</text><text x="37" y="153" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#17231b">Order</text>
+  <rect x="182" y="104" width="128" height="72" fill="#f4eee3" stroke="#576956" stroke-width="1.5"/><rect x="182" y="104" width="128" height="8" fill="#8fa78d"/>
+  <text x="194" y="132" font-family="monospace" font-size="9" letter-spacing=".7" fill="#586657">02 / INVARIANT</text><text x="194" y="153" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#17231b">Stock held</text>
+  <rect x="339" y="104" width="128" height="72" fill="#f4eee3" stroke="#576956" stroke-width="1.5"/><rect x="339" y="104" width="128" height="8" fill="#d96a43"/>
+  <text x="351" y="132" font-family="monospace" font-size="9" letter-spacing=".7" fill="#586657">03 / EVENT</text><text x="351" y="153" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#17231b">Payment</text>
+  <rect x="496" y="104" width="119" height="72" fill="#17231b" stroke="#17231b" stroke-width="1.5"/>
+  <text x="508" y="132" font-family="monospace" font-size="9" letter-spacing=".7" fill="#aebda9">04 / TRACE</text><text x="508" y="153" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#f0e8da">Audit log</text>
+</g>
+<g fill="#17231b"><path d="M163 130l8 5-8 5z"/><path d="M320 130l8 5-8 5z"/><path d="M477 130l8 5-8 5z"/></g>
+<path d="M25 200H615" stroke="#b7b5a7"/>
+<text x="25" y="220" font-family="monospace" font-size="10" fill="#586657">CURRENT SCOPE: PURE GO DOMAIN + TESTS</text>
+<text x="25" y="239" font-family="monospace" font-size="10" fill="#a44e2f">DATABASE TRANSACTIONS: NOT WIRED YET</text>
+</svg>

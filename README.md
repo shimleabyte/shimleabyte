@@ -1,41 +1,104 @@
-# Shimleabyte
+<div align="center">
+  <img src="./assets/shimleabyte-hero.svg" alt="Shimleabyte — from pixels to persistence, with a pixel-flow system diagram" width="100%" />
+  <p>
+    <a href="https://shimleabyte.github.io/osbio/"><strong>OPEN THE DESKTOP</strong></a>
+    &nbsp; / &nbsp;
+    <a href="https://github.com/shimleabyte?tab=repositories">BROWSE THE REPOS</a>
+  </p>
+</div>
 
-<p><strong>Self-taught software developer</strong> &nbsp;·&nbsp; Independent projects &nbsp;·&nbsp; Building since 2024</p>
+I work where interface behavior meets system rules: browser interactions, local-first tools, persistence, and domain logic. I want to know what a system does, why it does it, and which edge case will break it.
 
-<p><img src="./assets/shimleabyte-pixel-flow.svg" alt="Pixel-flow artwork representing Shimleabyte" width="100%" /></p>
+---
 
-I build software to understand how systems behave, not just how they look. My projects range from browser interfaces and interactive components to local-first command-line tools and backend domain logic. I focus on clear responsibilities, explicit behavior, and making implementation details understandable enough to test and maintain.
+<p><sub>01 / SELECTED WORK</sub></p>
 
-## Selected projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/shimleabyte/osbio"><img src="./assets/work-osbio.svg" alt="OSBio desktop interface illustration" width="100%" /></a>
+      <p><sub>01 — INTERFACE SYSTEM</sub></p>
+      <h3><a href="https://github.com/shimleabyte/osbio">OSBio</a></h3>
+      <p>A portfolio treated as a small desktop environment, not another landing page. Boot flow, dock, draggable windows, terminal, and a card-matching game — built with no framework or build step.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>Vanilla JavaScript</code></p>
+      <p><a href="https://github.com/shimleabyte/osbio">Source ↗</a> · <a href="https://shimleabyte.github.io/osbio/">Live desktop ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/shimleabyte/mutabaah-cli"><img src="./assets/work-mutabaah.svg" alt="Mutabaah CLI terminal illustration" width="100%" /></a>
+      <p><sub>02 — LOCAL-FIRST TOOL</sub></p>
+      <h3><a href="https://github.com/shimleabyte/mutabaah-cli">Mutabaah CLI</a></h3>
+      <p>A Go terminal app with separate activity and notes workflows. Local JSON storage, input validation, explicit state, and tests; no cloud service or third-party runtime dependencies.</p>
+      <p><code>Go</code> <code>JSON</code> <code>CLI</code> <code>Testing</code></p>
+      <p><a href="https://github.com/shimleabyte/mutabaah-cli">Inspect the implementation ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/shimleabyte/simpul"><img src="./assets/work-simpul.svg" alt="Simpul order and payment workflow diagram" width="100%" /></a>
+      <p><sub>03 — BACKEND DOMAIN</sub></p>
+      <h3><a href="https://github.com/shimleabyte/simpul">Simpul</a></h3>
+      <p>A reliability-first Go backend starter for order and payment workflows used by small-batch sellers. The domain model and tests exist; transactional database persistence is a later milestone, not a claimed feature.</p>
+      <p><code>Go</code> <code>Domain Modeling</code> <code>PostgreSQL</code></p>
+      <p><a href="https://github.com/shimleabyte/simpul">Follow the build ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/shimleabyte/optical-anchor-button"><img src="./assets/work-optical-anchor.svg" alt="Optical Anchor burnt-orange eye button illustration" width="100%" /></a>
+      <p><sub>04 — INTERACTION STUDY</sub></p>
+      <h3><a href="https://github.com/shimleabyte/optical-anchor-button">Optical Anchor Button</a></h3>
+      <p>A button built around a custom eye: pointer-responsive gaze, fatigue states, keyboard focus, reduced-motion support, and a precision-hardware surface. Includes React and standalone HTML work.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>SVG</code> <code>Vanilla JS</code></p>
+      <p><a href="https://github.com/shimleabyte/optical-anchor-button">See the component study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/shimleabyte/log-salary-tracker"><img src="./assets/work-teacher-log.svg" alt="Teacher Log monthly summary illustration" width="100%" /></a>
+      <p><sub>05 — MOBILE UTILITY</sub></p>
+      <h3><a href="https://github.com/shimleabyte/log-salary-tracker">Teacher Log &amp; Salary Tracker</a></h3>
+      <p>A Flutter logbook for teaching sessions and estimated monthly pay. Device-local persistence and an ARM 32-bit Android target; static analysis and release build still need to be run in a Flutter-enabled environment.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Android ARMv7</code></p>
+      <p><a href="https://github.com/shimleabyte/log-salary-tracker">Inspect the app source ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/workbench.svg" alt="Current engineering workbench: SQL, transactions, and tests" width="100%" />
+      <p><sub>06 — CURRENT WORKBENCH</sub></p>
+      <h3>Follow the behavior to the edge.</h3>
+      <p>Current study: SQL and database design, transactions and retries, test strategy, data structures, and system design. The aim is to prove the rules before adding infrastructure around them.</p>
+      <p><code>Data Modeling</code> <code>Failure Paths</code> <code>Invariants</code></p>
+    </td>
+  </tr>
+</table>
 
-| Project | What it does | Stack |
-|---|---|---|
-| [OSBio](https://github.com/shimleabyte/osbio) · [Live demo](https://shimleabyte.github.io/osbio/) | A portfolio presented as a small desktop environment, with a dock, draggable windows, apps, and a terminal. Built without a framework or build step. | HTML · CSS · Vanilla JavaScript |
-| [Mutabaah CLI](https://github.com/shimleabyte/mutabaah-cli) | A local-first terminal application for tracking activities and keeping short, timestamped notes. Uses Go's standard library and separate local JSON stores. | Go · CLI design · JSON · Tests |
-| [Simpul](https://github.com/shimleabyte/simpul) | An early Go backend project for order and payment workflows used by Indonesian small-batch and pre-order sellers. The domain starter is in place; database integration and transaction guarantees remain planned work. | Go · Domain modeling · PostgreSQL roadmap |
-| [Optical Anchor Button](https://github.com/shimleabyte/optical-anchor-button) | A focused button component with a custom eye, pointer-responsive gaze, and an awake-to-tired-to-sleep lifecycle. Includes a React implementation and a standalone HTML prototype. | React · TypeScript · CSS · SVG · Browser tests |
-| [Teacher Log & Salary Tracker](https://github.com/shimleabyte/log-salary-tracker) | A mobile app source project for recording teaching sessions and estimating monthly pay, with device-local persistence and an ARM 32-bit Android build target. | Flutter · Dart · Android |
+---
 
-## Tools and technologies
+<p><sub>02 / DEFAULTS I WORK BY</sub></p>
 
-**Web:** HTML, CSS, JavaScript, React, TypeScript  
-**Backend and tooling:** Go, REST APIs, JSON persistence, CLI architecture, automated tests  
-**Mobile:** Flutter, Dart  
-**Workflow:** Git, browser validation, build and test checks
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <p><strong>01 / State first</strong></p>
+      <p>Make transitions and invalid states explicit before adding visual polish.</p>
+    </td>
+    <td width="33%" valign="top">
+      <p><strong>02 / Keep the seam visible</strong></p>
+      <p>Separate domain rules, command or UI handling, and persistence so each can be inspected.</p>
+    </td>
+    <td width="33%" valign="top">
+      <p><strong>03 / Test the awkward case</strong></p>
+      <p>Retries, invalid input, empty data, and edge states belong in the design — not in the postmortem.</p>
+    </td>
+  </tr>
+</table>
 
-## Current study
+<p><sub>03 / TOOLKIT</sub></p>
 
-SQL and database design, transaction behavior, data structures and algorithms, software testing, and system design. I use projects to connect these topics to concrete implementation decisions.
+<p><strong>Web</strong> &nbsp; HTML · CSS · JavaScript · React · TypeScript<br />
+<strong>Systems</strong> &nbsp; Go · CLI design · JSON persistence · REST APIs<br />
+<strong>Mobile</strong> &nbsp; Flutter · Dart<br />
+<strong>Workflow</strong> &nbsp; Git · automated tests · browser validation</p>
 
-## Engineering priorities
+<p><sub>04 / ELSEWHERE</sub></p>
 
-- Keep domain rules separate from interface and storage concerns.
-- Make state changes, validation, and failure cases explicit.
-- Test behavior and edge cases rather than relying on appearance alone.
-- Distinguish implemented functionality from planned work.
+<p><a href="https://github.com/shimleabyte">GitHub profile ↗</a> &nbsp; / &nbsp; <a href="https://shimleabyte.github.io/osbio/">OSBio portfolio ↗</a></p>
 
-## Find me
-
-[GitHub profile](https://github.com/shimleabyte) · [Portfolio](https://shimleabyte.github.io/osbio/)
-
-<p align="right"><sub>SHIMLEABYTE / INDEPENDENT DEVELOPMENT</sub></p>
+<p align="right"><sub>SHIMLEABYTE / INDEPENDENT DEVELOPMENT / BUILT SINCE 2024</sub></p>

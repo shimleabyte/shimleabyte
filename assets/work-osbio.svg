@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="270" viewBox="0 0 640 270" role="img" aria-labelledby="title desc">
+<title id="title">OSBio desktop illustration</title><desc id="desc">A compact desktop interface with a sidebar, floating application windows, and a dock.</desc>
+<rect width="640" height="270" fill="#17231b"/>
+<g stroke="#344a38" opacity=".7"><path d="M0 34H640M0 66H640M0 98H640M0 130H640M0 162H640M0 194H640M0 226H640"/><path d="M32 0V270M64 0V270M96 0V270M128 0V270M160 0V270M192 0V270M224 0V270M256 0V270M288 0V270M320 0V270M352 0V270M384 0V270M416 0V270M448 0V270M480 0V270M512 0V270M544 0V270M576 0V270M608 0V270"/></g>
+<rect x="18" y="17" width="604" height="236" fill="#203328" stroke="#8fa78d"/>
+<rect x="18" y="17" width="604" height="25" fill="#e9e2d5"/>
+<rect x="29" y="26" width="7" height="7" fill="#d96a43"/><text x="44" y="33" font-family="monospace" font-size="10" fill="#203328">OSBIO / DESKTOP SESSION</text>
+<text x="608" y="33" text-anchor="end" font-family="monospace" font-size="9" fill="#566958">WINDOWS: 03</text>
+<rect x="30" y="54" width="92" height="180" fill="#17231b" stroke="#47604a"/>
+<text x="42" y="72" font-family="monospace" font-size="9" letter-spacing="1" fill="#aab9a7">WORKSPACE</text>
+<rect x="41" y="86" width="70" height="22" fill="#d96a43"/><text x="49" y="100" font-family="monospace" font-size="9" fill="#171d17">ABOUT</text>
+<text x="43" y="125" font-family="monospace" font-size="9" fill="#d7dfd2">PROJECTS</text><text x="43" y="147" font-family="monospace" font-size="9" fill="#d7dfd2">TERMINAL</text><text x="43" y="169" font-family="monospace" font-size="9" fill="#d7dfd2">MEMORY</text>
+<rect x="140" y="55" width="260" height="130" fill="#ece5d8" stroke="#141a15" stroke-width="2"/>
+<rect x="140" y="55" width="260" height="22" fill="#d96a43"/><text x="152" y="69" font-family="monospace" font-size="9" fill="#201d18">ABOUT / shimleabyte</text>
+<text x="157" y="101" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#17231b">Software as a workspace.</text>
+<path d="M157 113H374M157 123H345M157 133H361" stroke="#9ba394" stroke-width="3"/>
+<rect x="157" y="149" width="78" height="23" fill="#203328"/><text x="168" y="164" font-family="monospace" font-size="9" fill="#f0e8da">OPEN APP</text>
+<rect x="315" y="121" width="218" height="95" fill="#101713" stroke="#8fa78d" stroke-width="1.5"/>
+<rect x="315" y="121" width="218" height="20" fill="#2b3f30"/><text x="327" y="135" font-family="monospace" font-size="9" fill="#d8e1d4">terminal / help</text>
+<text x="329" y="158" font-family="monospace" font-size="10" fill="#d96a43">&gt; projects</text><text x="329" y="175" font-family="monospace" font-size="9" fill="#d8e1d4">01  OSBio</text><text x="329" y="190" font-family="monospace" font-size="9" fill="#d8e1d4">02  Mutabaah</text><text x="329" y="205" font-family="monospace" font-size="9" fill="#d8e1d4">03  Simpul</text>
+<rect x="220" y="222" width="202" height="20" fill="#101713" stroke="#657963"/>
+<g fill="#d96a43"><rect x="230" y="228" width="8" height="8"/><rect x="250" y="228" width="8" height="8"/><rect x="270" y="228" width="8" height="8"/></g><g fill="#8fa78d"><rect x="290" y="228" width="8" height="8"/><rect x="310" y="228" width="8" height="8"/><rect x="330" y="228" width="8" height="8"/></g>
+</svg>

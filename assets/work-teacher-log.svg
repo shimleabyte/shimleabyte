@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="270" viewBox="0 0 640 270" role="img" aria-labelledby="title desc">
+<title id="title">Teacher Log mobile app illustration</title><desc id="desc">A mobile teaching log with a monthly pay estimate and class-session entries.</desc>
+<rect width="640" height="270" fill="#e9e2d5"/>
+<text x="25" y="34" font-family="monospace" font-size="10" letter-spacing="1.7" fill="#586657">TEACHER LOG / MOBILE STUDY</text>
+<rect x="26" y="50" width="588" height="194" fill="#f4eee3" stroke="#9ba394"/>
+<rect x="26" y="50" width="588" height="35" fill="#24382c"/>
+<text x="43" y="72" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#f1eadc">Monthly record</text>
+<text x="594" y="71" text-anchor="end" font-family="monospace" font-size="9" fill="#b8c8b5">OCT 2026</text>
+<rect x="43" y="99" width="554" height="57" fill="#e2e7db" stroke="#b5c3ae"/>
+<text x="58" y="117" font-family="monospace" font-size="9" letter-spacing="1.2" fill="#566958">ESTIMATED TAKE-HOME</text>
+<text x="58" y="143" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#17231b">Rp 640.000</text>
+<rect x="476" y="111" width="100" height="31" fill="#d96a43"/><text x="526" y="130" text-anchor="middle" font-family="monospace" font-size="9" fill="#201d18">8 JP / 4 DAYS</text>
+<path d="M43 169H597M43 202H597M43 231H597" stroke="#c5c9b9"/>
+<g font-family="monospace" font-size="10" fill="#24382c"><text x="55" y="190">VII-A</text><text x="171" y="190">Tahsin / Tahfidz</text><text x="575" y="190" text-anchor="end">2 JP</text><text x="55" y="220">VIII-B</text><text x="171" y="220">Tahsin / Tahfidz</text><text x="575" y="220" text-anchor="end">2 JP</text></g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="270" viewBox="0 0 640 270" role="img" aria-labelledby="title desc">
+<title id="title">Current engineering workbench</title><desc id="desc">A schematic connects data input to domain rules, then to testable outcomes.</desc>
+<rect width="640" height="270" fill="#17231b"/>
+<g stroke="#344a38" opacity=".7"><path d="M0 34H640M0 66H640M0 98H640M0 130H640M0 162H640M0 194H640M0 226H640"/><path d="M32 0V270M64 0V270M96 0V270M128 0V270M160 0V270M192 0V270M224 0V270M256 0V270M288 0V270M320 0V270M352 0V270M384 0V270M416 0V270M448 0V270M480 0V270M512 0V270M544 0V270M576 0V270M608 0V270"/></g>
+<text x="26" y="34" font-family="monospace" font-size="10" letter-spacing="1.7" fill="#aab9a7">ON THE BENCH / NEXT QUESTIONS</text>
+<rect x="25" y="65" width="168" height="94" fill="#203328" stroke="#8fa78d"/>
+<text x="40" y="89" font-family="monospace" font-size="9" letter-spacing="1" fill="#aab9a7">01 / DATA</text><text x="40" y="116" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#f1eadc">SQL</text><text x="40" y="138" font-family="monospace" font-size="10" fill="#d96a43">constraints · indexes</text>
+<rect x="236" y="65" width="168" height="94" fill="#203328" stroke="#8fa78d"/>
+<text x="251" y="89" font-family="monospace" font-size="9" letter-spacing="1" fill="#aab9a7">02 / STATE</text><text x="251" y="116" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#f1eadc">Transactions</text><text x="251" y="138" font-family="monospace" font-size="10" fill="#d96a43">atomicity · retries</text>
+<rect x="447" y="65" width="168" height="94" fill="#d96a43" stroke="#f1b094"/>
+<text x="462" y="89" font-family="monospace" font-size="9" letter-spacing="1" fill="#3a241a">03 / PROOF</text><text x="462" y="116" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#171d17">Tests</text><text x="462" y="138" font-family="monospace" font-size="10" fill="#3a241a">edges · invariants</text>
+<g fill="none" stroke="#d96a43" stroke-width="2"><path d="M194 112H230m-7-6 7 6-7 6M405 112H441m-7-6 7 6-7 6"/></g>
+<path d="M25 183H615" stroke="#536755"/>
+<text x="25" y="207" font-family="monospace" font-size="10" fill="#d7dfd2">Learn the rule before adding another layer.</text>
+<text x="25" y="230" font-family="monospace" font-size="10" fill="#91a394">CURRENT STUDY / DATABASE DESIGN · TEST STRATEGY · SYSTEM DESIGN</text>
+</svg>
