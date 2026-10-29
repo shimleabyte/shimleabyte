@@ -16,12 +16,12 @@ I work where interface behavior meets system rules: browser interactions, local-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/shimleabyte/osbio"><img src="./assets/work-osbio.svg" alt="OSBio desktop interface illustration" width="100%" /></a>
+      <a href="https://shimleabyte.github.io/osbio/"><img src="https://raw.githubusercontent.com/shimleabyte/osbio/main/docs/screenshots/osbio-desktop.png" alt="Current OSBio desktop screenshot showing the icon-only Pixel-Flow shell and floating app dock" width="100%" /></a>
       <p><sub>01 — INTERFACE SYSTEM</sub></p>
-      <h3><a href="https://github.com/shimleabyte/osbio">OSBio</a></h3>
-      <p>A portfolio treated as a small desktop environment, not another landing page. Boot flow, dock, draggable windows, terminal, and a card-matching game — built with no framework or build step.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>Vanilla JavaScript</code></p>
-      <p><a href="https://github.com/shimleabyte/osbio">Source ↗</a> · <a href="https://shimleabyte.github.io/osbio/">Live desktop ↗</a></p>
+      <h3><a href="https://github.com/shimleabyte/osbio">OSBio / Pixel-Flow Workstation</a></h3>
+      <p>A portfolio that behaves like a desktop instead of a landing page: icon-only shell chrome, a custom split-corner outline system, eleven-icon launcher, draggable windows, and local-first workspace apps. The project README includes real Chromium captures of both the desktop and launcher.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>Vanilla JavaScript</code> <code>IndexedDB</code> <code>Playwright</code></p>
+      <p><a href="https://github.com/shimleabyte/osbio">Source ↗</a> · <a href="https://shimleabyte.github.io/osbio/">Live desktop ↗</a> · <a href="https://github.com/shimleabyte/osbio#screenshots">Screenshots ↗</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/shimleabyte/mutabaah-cli"><img src="./assets/work-mutabaah.svg" alt="Mutabaah CLI terminal illustration" width="100%" /></a>
