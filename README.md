@@ -1,10 +1,5 @@
-<h1 align="center">SHIMLEABYTE</h1>
-
-<p align="center"><strong>Software Developer · QA Automation Focus</strong></p>
-<p align="center">Building software, testing behavior, and improving reliability.</p>
-
 <p align="center">
-  <img src="./assets/profile-book.svg" alt="Original open-book illustration with project notes on the left page and test checks on the right page." width="100%" />
+  <img src="./assets/profile-book.svg" alt="SHIMLEABYTE. Custom EB Garamond vector wordmark, software developer and QA automation focus, with an original open-book illustration." width="100%" />
 </p>
 
 <p align="center">
@@ -64,7 +59,7 @@
   <tr>
     <td width="50%" valign="top">
       <p><sub>CURRENT FOCUS</sub></p>
-      **Test design** · Regression testing · Browser automation · CI workflows
+      <strong>Test design</strong> · Regression testing · Browser automation · CI workflows
     </td>
     <td width="50%" valign="top">
       <p><sub>TOOLKIT</sub></p>
