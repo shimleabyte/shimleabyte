@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <title>Shimleabyte profile header</title>
+  <desc>Editorial portfolio header with custom EB Garamond lettering and a line illustration of an open book containing project notes and test checks.</desc>
+  <rect width="1200" height="320" fill="#17241f"/>
+  <path d="M0 18H1200M0 302H1200" stroke="#3a4940" stroke-width="1"/>
+  <path d="M40 0V320M1160 0V320" stroke="#2a3931" stroke-width="1"/>
+  <text x="80" y="65" fill="#c77c4f" font-family="monospace" font-size="13" letter-spacing="3">INDEPENDENT DEVELOPMENT / PROFILE 01</text>
+  <path d="M80 96H80V153H80" fill="none"/>
+  <g fill="#eee8db">
+    <path d="M80 153V99H126V153Z" opacity="0"/>
+  </g>
+  <g fill="none" stroke="#eee8db" stroke-width="0">
+    <path d="M80 153H635"/>
+  </g>
+  <g fill="#eee8db">
+    <path d="M80 153V99H129V153Z" opacity="0"/>
+  </g>
+  <g fill="#eee8db">
+    <path d="M80 153H80"/>
+  </g>
+  <g fill="#eee8db">
+    <path d="M80 153H635"/>
+  </g>
+  <!-- Custom EB Garamond letterforms converted to vector paths -->
+  __TITLE_PATHS__
+  <text x="82" y="199" fill="#c8d0c4" font-family="monospace" font-size="16" letter-spacing="1.4">SOFTWARE DEVELOPER  /  QA AUTOMATION FOCUS</text>
+  <path d="M82 225H430" stroke="#c77c4f" stroke-width="2"/>
+  <text x="82" y="261" fill="#9ca99c" font-family="monospace" font-size="12" letter-spacing="2">BUILD  ·  VERIFY  ·  REFINE</text>
+  <path d="M700 91 Q780 65 866 101 L866 248 Q785 216 700 237 Z" fill="#202f28" stroke="#869184" stroke-width="1.5"/>
+  <path d="M872 101 Q960 65 1060 91 L1060 237 Q970 216 872 248 Z" fill="#202f28" stroke="#869184" stroke-width="1.5"/>
+  <path d="M869 100 Q870 173 869 248" fill="none" stroke="#c77c4f" stroke-width="2"/>
+  <path d="M716 116 Q786 97 848 121M890 121 Q960 97 1044 116" fill="none" stroke="#3f5147" stroke-width="1"/>
+  <text x="722" y="139" fill="#c77c4f" font-family="monospace" font-size="9" letter-spacing="1.4">PROJECT NOTES</text>
+  <path d="M724 158H827M724 176H839M724 194H815M724 212H835" stroke="#9ca99c" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+  <path d="M724 158H742" stroke="#c77c4f" stroke-width="3" stroke-linecap="round"/>
+  <text x="890" y="139" fill="#c77c4f" font-family="monospace" font-size="9" letter-spacing="1.4">TEST RECORD</text>
+  <g fill="none" stroke="#9ca99c" stroke-width="1.5">
+    <rect x="892" y="153" width="12" height="12" rx="1"/>
+    <rect x="892" y="177" width="12" height="12" rx="1"/>
+    <rect x="892" y="201" width="12" height="12" rx="1"/>
+  </g>
+  <g fill="none" stroke="#c77c4f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M895 159L898 162L903 155"/>
+    <path d="M895 183L898 186L903 179"/>
+    <path d="M895 207L898 210L903 203"/>
+  </g>
+  <path d="M914 159H1035M914 183H1020M914 207H1040" stroke="#9ca99c" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+  <text x="719" y="229" fill="#77877b" font-family="monospace" font-size="9" letter-spacing="1">01</text>
+  <text x="1030" y="229" fill="#77877b" font-family="monospace" font-size="9" letter-spacing="1">02</text>
+  <path d="M686 260H1074" stroke="#3a4940" stroke-width="1"/>
+  <text x="880" y="282" text-anchor="middle" fill="#9ca99c" font-family="monospace" font-size="10" letter-spacing="2">NOTES ON THE LEFT / TESTS ON THE RIGHT</text>
+</svg>
