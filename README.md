@@ -1,63 +1,59 @@
-<div align="center">
+<h1 align="center">SHIMLEABYTE</h1>
 
-# Shimleabyte
+<p align="center"><strong>Software Developer · QA Automation Focus</strong></p>
+<p align="center">Building software, testing behavior, and improving reliability.</p>
 
-**Software Developer · QA Automation Focus**
+<hr />
 
-I build software, then test the rules that keep it working.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><sub>01 / SELECTED WORK</sub></p>
 
-[Repositories](https://github.com/shimleabyte?tab=repositories) · [Hold the Keep](https://github.com/shimleabyte/hold-the-keep) · [Optical Anchor](https://github.com/shimleabyte/optical-anchor-button)
+      <h3><a href="https://github.com/shimleabyte/hold-the-keep">Hold the Keep</a></h3>
+      <p><sub>Godot 4.7 · GDScript</sub></p>
+      <p>A strategy game with headless regression checks in GitHub Actions.</p>
+      <p><strong>Testing</strong><br />Combat, save/load, resources, worker behavior, campaign progression, input, and responsive layouts.</p>
+      <p><strong>Concepts</strong><br />Assertions, repeatable scenarios, state validation, regression coverage, and performance diagnostics.</p>
 
-</div>
+      <hr />
 
-## Current focus
+      <h3><a href="https://github.com/shimleabyte/mutabaah-cli">Mutabaah CLI</a></h3>
+      <p><sub>Go · JSON · CLI</sub></p>
+      <p>A local CLI for activity tracking and notes, with separate domain, command, and storage responsibilities.</p>
+      <p><strong>Testing</strong><br />Input validation, CLI behavior, CRUD operations, JSON storage, and race-enabled tests.</p>
+      <p><strong>Concepts</strong><br />Input boundaries, error handling, persistence, separation of concerns, and unit testing.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><sub>02 / ENGINEERING PRACTICE</sub></p>
 
-Preparing for QA Automation roles. Current focus areas include test design, regression testing, browser automation, and CI workflows.
+      <h3><a href="https://github.com/shimleabyte/optical-anchor-button">Optical Anchor Button</a></h3>
+      <p><sub>React · TypeScript · Vitest</sub></p>
+      <p>An interactive button component with pointer-driven states and native button behavior.</p>
+      <p><strong>Testing</strong><br />Component behavior, activation, disabled and loading states, and the eye's wake-to-sleep lifecycle. Its standalone prototype also has a documented 12-check Chromium validation run.</p>
+      <p><strong>Concepts</strong><br />Component contracts, event handling, state lifecycles, keyboard semantics, and reduced motion.</p>
 
-## Selected work
+      <hr />
 
-### [Hold the Keep](https://github.com/shimleabyte/hold-the-keep)
-<sub>Godot 4.7 · GDScript</sub>
+      <h3><a href="https://github.com/shimleabyte/simpul">Simpul</a></h3>
+      <p><sub>Go · Domain Modeling</sub></p>
+      <p>An early order-workflow backend focused on business rules. PostgreSQL persistence is planned and is not connected yet.</p>
+      <p><strong>Testing</strong><br />Integer currency calculations, invalid input, overflow, input ownership, and order-state transitions.</p>
+      <p><strong>Concepts</strong><br />Domain invariants, boundary testing, state-transition rules, and defensive data handling.</p>
+    </td>
+  </tr>
+</table>
 
-A strategy game with headless regression checks in GitHub Actions.
+<hr />
 
-**Test coverage:** Combat, save/load, resources, worker behavior, campaign progression, input, and responsive layouts.
+<p align="center"><strong>CURRENT FOCUS</strong></p>
+<p align="center">Test design · Regression testing · Browser automation · CI workflows</p>
+<p align="center">Go · TypeScript · React · Vitest · Playwright · GitHub Actions · Godot · GDScript</p>
 
-**Fundamentals:** Assertions, repeatable scenarios, state validation, regression coverage, and performance diagnostics.
+<p align="center"><sub>MORE WORK</sub><br />
+<a href="https://github.com/shimleabyte?tab=repositories">All repositories</a> ·
+<a href="https://github.com/shimleabyte/osbio">OSBio</a> ·
+<a href="https://github.com/shimleabyte/log-salary-tracker">Teacher Log & Salary Tracker</a>
+</p>
 
-### [Optical Anchor Button](https://github.com/shimleabyte/optical-anchor-button)
-<sub>React · TypeScript · Vitest</sub>
-
-An interactive button component with pointer-driven states and native button behavior.
-
-**Test coverage:** Component behavior, activation, disabled and loading states, and the eye's wake-to-sleep lifecycle. A separate standalone prototype has a documented 12-check Chromium validation run.
-
-**Fundamentals:** Component contracts, event handling, state lifecycles, keyboard semantics, and reduced motion.
-
-### [Mutabaah CLI](https://github.com/shimleabyte/mutabaah-cli)
-<sub>Go · JSON · CLI</sub>
-
-A local CLI for activity tracking and notes, with separate domain, command, and storage responsibilities.
-
-**Test coverage:** Input validation, CLI behavior, CRUD operations, JSON storage, and race-enabled tests.
-
-**Fundamentals:** Input boundaries, error handling, persistence, separation of concerns, and unit testing.
-
-### [Simpul](https://github.com/shimleabyte/simpul)
-<sub>Go · Domain modeling</sub>
-
-An early order-workflow backend focused on business rules. PostgreSQL persistence is planned and is not connected yet.
-
-**Test coverage:** Integer currency calculations, invalid input, overflow, input ownership, and order-state transitions.
-
-**Fundamentals:** Domain invariants, boundary testing, state-transition rules, and defensive data handling.
-
-## Tools
-
-Go · TypeScript · React · Vitest · Playwright · GitHub Actions · Godot · GDScript
-
-## More work
-
-[Browse all repositories](https://github.com/shimleabyte?tab=repositories) · [OSBio](https://github.com/shimleabyte/osbio) · [Teacher Log & Salary Tracker](https://github.com/shimleabyte/log-salary-tracker)
-
-<p align="right"><sub>Independent development · 2024–present</sub></p>
+<p align="center"><sub>Independent development · 2024–present</sub></p>
