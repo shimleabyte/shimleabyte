@@ -10,14 +10,13 @@
     <td width="50%" valign="top">
       <p><sub>01 / SELECTED WORK</sub></p>
 
-      <h3><a href="https://github.com/shimleabyte/hold-the-keep">Hold the Keep</a></h3>
+  <h3><a href="https://github.com/shimleabyte/hold-the-keep">Hold the Keep</a></h3>
       <p><sub>Godot 4.7 · GDScript</sub></p>
       <p>A strategy game with headless regression checks in GitHub Actions.</p>
       <p><strong>Testing</strong><br />Combat, save/load, resources, worker behavior, campaign progression, input, and responsive layouts.</p>
       <p><strong>Concepts</strong><br />Assertions, repeatable scenarios, state validation, regression coverage, and performance diagnostics.</p>
 
-      <hr />
-
+  <hr />
       <h3><a href="https://github.com/shimleabyte/mutabaah-cli">Mutabaah CLI</a></h3>
       <p><sub>Go · JSON · CLI</sub></p>
       <p>A local CLI for activity tracking and notes, with separate domain, command, and storage responsibilities.</p>
@@ -27,14 +26,13 @@
     <td width="50%" valign="top">
       <p><sub>02 / ENGINEERING PRACTICE</sub></p>
 
-      <h3><a href="https://github.com/shimleabyte/optical-anchor-button">Optical Anchor Button</a></h3>
+  <h3><a href="https://github.com/shimleabyte/optical-anchor-button">Optical Anchor Button</a></h3>
       <p><sub>React · TypeScript · Vitest</sub></p>
       <p>An interactive button component with pointer-driven states and native button behavior.</p>
       <p><strong>Testing</strong><br />Component behavior, activation, disabled and loading states, and the eye's wake-to-sleep lifecycle. Its standalone prototype also has a documented 12-check Chromium validation run.</p>
       <p><strong>Concepts</strong><br />Component contracts, event handling, state lifecycles, keyboard semantics, and reduced motion.</p>
 
-      <hr />
-
+  <hr />
       <h3><a href="https://github.com/shimleabyte/simpul">Simpul</a></h3>
       <p><sub>Go · Domain Modeling</sub></p>
       <p>An early order-workflow backend focused on business rules. PostgreSQL persistence is planned and is not connected yet.</p>
